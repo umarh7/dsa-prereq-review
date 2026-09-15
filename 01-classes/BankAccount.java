@@ -40,7 +40,7 @@ public class BankAccount {
 
         System.out.println(b1.ownerGet());
         System.out.println(BankAccount.totalAccounts);
-
+        
     }
 
     
